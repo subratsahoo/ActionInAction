@@ -9,7 +9,7 @@ jobs:
   MyFirstJob:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ":wave Hello World!"
+      - run: echo "Alt + 128075 Hello World!"
       - name: Checkout
         uses: actions/checkout@v4.1.4
       - name: List files in repository
